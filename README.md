@@ -1,4 +1,5 @@
-# 🌍 Wario Diba Wako — Personal Portfolio
+# 🌍 Wario Diba Wako 
+# Personal Portfolio
 
 This is my personal portfolio website — a clean, dark + green card-based design built with **HTML** and **CSS**.  
 It showcases my skills, background, projects, and how to get in touch with me.
